@@ -1,8 +1,3 @@
-// {
-//   "dependencies": {
-//     "json-server": "^0.17.3"
-//   }
-// }
 {
   "name": "react-form-use-reducer",
   "version": "0.1.0",
